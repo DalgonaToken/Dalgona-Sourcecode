@@ -1,4 +1,4 @@
-DALGONA.SOL
+Dalgona.sol
 
 
 
